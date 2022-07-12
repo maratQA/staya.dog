@@ -1,3 +1,3 @@
 # staya.dog
 
-json file for teremok.ru
+json file for staya.dog
